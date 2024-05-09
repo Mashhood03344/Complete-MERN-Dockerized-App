@@ -1,5 +1,6 @@
 Project Diagram 
 
+![Project diagram](Project Diagram.png)
 
 
 Creating the Network
