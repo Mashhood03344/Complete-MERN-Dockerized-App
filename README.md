@@ -1,6 +1,5 @@
 Project Diagram 
-
-
+![Project diagram](Project Diagram.png)
 
 Creating the Network
 
@@ -248,4 +247,3 @@ live source code changes
 
 
 Browser
-
