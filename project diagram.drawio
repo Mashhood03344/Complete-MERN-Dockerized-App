@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-05-09T08:30:43.529Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_9Jpwz7Gcqa69qjPe2gH" version="24.3.1" type="device">
+  <diagram name="Page-1" id="gn39OuXXx6cu7Z06dPnJ">
+    <mxGraphModel dx="1949" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-5" value="Mongodb" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="265" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-3" value="Database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-8" value="Node JS REST API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="645" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-9" value="Back end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="970" y="220" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-11" value="React SPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-12" value="Front end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gYYbZywzVuGiLrW_YjDn-6" target="gYYbZywzVuGiLrW_YjDn-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="690" y="360" as="sourcePoint" />
+            <mxPoint x="790" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gYYbZywzVuGiLrW_YjDn-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="900" y="310" as="sourcePoint" />
+            <mxPoint x="970" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-18" value="Data must Persist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-19" value="Access should be limited" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="265" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-20" value="Data must Persist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-21" value="Live Source Code Update" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYYbZywzVuGiLrW_YjDn-22" value="Live Source Code Update" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,18 @@
+FROM node:20-slim
+
+WORKDIR /app
+
+COPY package*.json .
+
+RUN npm install
+
+COPY . .
+
+# ENVIRONMENT VARIABLES FOR DYNAMIC AUTHENCIATION 
+
+ENV MONGODB_USERNAME=root
+ENV MONGODB_PASSWORD=secret
+
+EXPOSE 5000
+
+CMD ["npm", "start"]
